@@ -1,4 +1,4 @@
-# Mastering-Clojure
+# Mastering Clojure
 
 https://www.packtpub.com/application-development/mastering-clojure
 
