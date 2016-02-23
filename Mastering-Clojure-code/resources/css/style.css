@@ -1,0 +1,62 @@
+.container {
+    width: 60em;
+    margin-right: auto;
+    margin-left: auto;*zoom:1;
+}
+.proc-1 {
+    color: #ff6666;
+}
+.proc-2 {
+    color: #66ff66;
+}
+.proc-3 {
+    color: #6666ff;
+}
+.example {
+    position: relative;
+    margin-top: 20px;
+    height: 200px;
+    border: 1px solid #ccc;
+    background: #efefef;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.out {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    color: #666;
+    text-align: center;
+    line-height: 200px;
+    font-family: 'Courier';
+    font-size: 72px;
+}
+.smallout {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    margin-top: 10px;
+    color: #666;
+    text-align: center;
+    line-height: 1.3em;
+    font-family: 'Courier';
+    font-size: 14px;
+}
+.mediumout {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    margin-top: 10px;
+    color: #666;
+    text-align: center;
+    line-height: 1.3em;
+    font-family: 'Courier';
+    font-size: 24px;
+}

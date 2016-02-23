@@ -1,0 +1,17 @@
+<countries>
+  <country name="England">
+    <city>Birmingham</city>
+    <city>Leeds</city>
+    <city capital="true">London</city>
+  </country>
+  <country name="Germany">
+    <city capital="true">Berlin</city>
+    <city>Frankfurt</city>
+    <city>Munich</city>
+  </country>
+  <country name="France">
+    <city>Cannes</city>
+    <city>Lyon</city>
+    <city capital="true">Paris</city>
+  </country>
+</countries>
