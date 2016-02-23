@@ -9,7 +9,7 @@ This project contains all chapter wise code files
 CPU (Minimum: Intel Core 2 Duo or AMD Athlon, Recommended: Intel Core i5 or AMD FX)
 Memory (Minimum: 2GB, Recommended: 4GB)
 
-README file https://github.com/PacktPublishing/Mastering-Clojure/blob/master/M-clj.code/README.md
+Code related README file https://github.com/PacktPublishing/Mastering-Clojure/blob/master/M-clj.code/README.md
 
 # Related Clojure books:
 
