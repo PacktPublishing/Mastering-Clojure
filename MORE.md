@@ -3,18 +3,14 @@ This project contains all chapter wise code files
 
 # Hardware requirements
 
-Hardware	    Minimum	                    Recommended
-CPU	          Intel Core 2 Duo or AMD     Athlon	Intel Core i5 or AMD FX
-Memory	      2 GB	                      4 GB
-	
-
-
+CPU (Minimum: Intel Core 2 Duo or AMD Athlon, Recommended: Intel Core i5 or AMD FX)
+Memory (Minimum: 2GB, Recommended: 4GB)
 
 README file https://github.com/PacktPublishing/Mastering-Clojure/blob/master/M-clj.code/README.md
 
-You can view the book details at: Mastering Clojure https://www.packtpub.com/application-development/mastering-clojure
+# You can view the book details at: Mastering Clojure https://www.packtpub.com/application-development/mastering-clojure
 
-Related Clojure books:
+# Related Clojure books:
 
 1. Clojure for Machine Learning at https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning
 2. Mastering Clojure Data Analysis at https://www.packtpub.com/big-data-and-business-intelligence/mastering-clojure-data-analysis
