@@ -1,6 +1,15 @@
 # Mastering-Clojure
 This project contains all chapter wise code files
 
+# Hardware requirements
+
+Hardware	    Minimum	                    Recommended
+CPU	          Intel Core 2 Duo or AMD     Athlon	Intel Core i5 or AMD FX
+Memory	      2 GB	                      4 GB
+	
+
+
+
 README file https://github.com/PacktPublishing/Mastering-Clojure/blob/master/M-clj.code/README.md
 
 You can view the book details at: Mastering Clojure https://www.packtpub.com/application-development/mastering-clojure
