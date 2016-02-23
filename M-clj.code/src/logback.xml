@@ -1,0 +1,24 @@
+<configuration debug="false">
+
+  <appender name="Console" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%-5level - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <appender name="File" class="ch.qos.logback.core.FileAppender">
+    <file>app.log</file>
+    <append>true</append>
+    <encoder>
+      <pattern>%-5level - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <logger name="default-log" level="DEBUG"/>
+
+  <root level="DEBUG">
+    <appender-ref ref="Console"/>
+    <appender-ref ref="File"/>
+  </root>
+
+</configuration>
