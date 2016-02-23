@@ -1,4 +1,4 @@
-# Mastering Clojure
+# Mastering-Clojure
 
 ## Testing code
 
