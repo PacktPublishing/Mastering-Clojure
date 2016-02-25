@@ -79,7 +79,7 @@
 ;;        [t/AnyInteger * -> t/AnyInteger]
 ;;        [Number * -> Number])
 
-;; user> (t/cf (t/ann-form #(+ 1 %) [Number -> Number]))
+;; user> (t/cf (t/ann-form #(inc %) [Number -> Number]))
 ;; [[Number -> Number] {:then tt, :else ff}]
 ;; user> (t/cf (t/ann-form #(str %) [t/Any -> String]))
 ;; [[t/Any -> String] {:then tt, :else ff}]

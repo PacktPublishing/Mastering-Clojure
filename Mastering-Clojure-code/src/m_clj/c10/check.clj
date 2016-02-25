@@ -6,7 +6,7 @@
 
 ;;; Example 10.12
 
-(def commutative-*-prop
+(def commutative-mult-prop
   (prop/for-all [a gen/int
                  b gen/int]
     (= (* a b)
@@ -17,7 +17,7 @@
     (= (apply min v)
        (first (sort v)))))
 
-;; user> (tc/quick-check 100 commutative-*-prop)
+;; user> (tc/quick-check 100 commutative-mult-prop)
 ;; {:result true, :num-tests 100, :seed 1449998010193}
 ;; user> (tc/quick-check 100 first-is-min-after-sort-prop)
 ;; {:result true, :num-tests 100, :seed 1449998014634}
@@ -37,7 +37,7 @@
 
 ;;; Example 10.14
 
-(defspec commutative-* 100
+(defspec commutative-mult 100
   (prop/for-all [a gen/int
                  b gen/int]
     (= (* a b)

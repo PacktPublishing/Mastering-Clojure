@@ -20,7 +20,9 @@
         (first-element [] :default) => :default
         (first-element '() :default) => :default
         (first-element nil :default) => :default
-        (first-element (filter even? [1 3 5]) :default) => :default))
+        (first-element
+         (filter even? [1 3 5])
+         :default) => :default))
 
 ;;; Example 10.5
 

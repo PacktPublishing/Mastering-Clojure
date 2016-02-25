@@ -50,14 +50,16 @@
 ;; user$eval9408$fn__9409.invoke(form-init1..0.clj:2) (/ r 10.0) => 3.1
 ;; (4.6 4.4 5.0 7.8 3.1)
 
-;; user> (take 5 (repeat #spy/d ^{:fs 3 :marker "add"} (+ 0 1 2)))
+;; user> (take 5 (repeat #spy/d ^{:fs 3 :marker "add"}
+;;                       (+ 0 1 2)))
 ;; ----------------------------------------
 ;; clojure.lang.Compiler.eval(Compiler.java:6745)
 ;; clojure.lang.Compiler.eval(Compiler.java:6782)
 ;; user$eval9476.invoke(form-init1..0.clj:1) add (+ 0 1 2) => 3
 ;; (3 3 3 3 3)
 
-;; user> (take 5 (repeat #spy/d ^{:fs 3 :nses #"core|user"} (+ 0 1 2)))
+;; user> (take 5 (repeat #spy/d ^{:fs 3 :nses #"core|user"}
+;;                       (+ 0 1 2)))
 ;; ----------------------------------------
 ;; clojure.core$apply.invoke(core.clj:630)
 ;; clojure.core$eval.invoke(core.clj:3081)
