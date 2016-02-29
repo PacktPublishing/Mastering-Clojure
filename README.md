@@ -1,6 +1,6 @@
 # Mastering Clojure
 
-https://www.packtpub.com/application-development/mastering-clojure
+https://www.packtpub.com/application-development/mastering-clojure/
 
 ## Testing code
 
@@ -30,7 +30,7 @@ Memory (Minimum: 2GB, Recommended: 4GB)
 
 ## Related Clojure books:
 
-1. Clojure for Machine Learning at https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning
+1. [Clojure for Machine Learning] (https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning)
 2. Mastering Clojure Data Analysis at https://www.packtpub.com/big-data-and-business-intelligence/mastering-clojure-data-analysis
 3. Building Web Applications with Clojure [Video] at https://www.packtpub.com/web-development/building-web-applications-clojure-video
 
