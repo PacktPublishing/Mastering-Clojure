@@ -1,8 +1,8 @@
 # Mastering Clojure
 
-You can have a look at [Mastering Clojure] (https://www.packtpub.com/application-development/mastering-clojure) book
+This is the code repository for [Mastering Clojure](https://www.packtpub.com/application-development/mastering-clojure?utm_source=github&utm_medium=repository&utm_campaign=9781785889745), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-## Testing code
+## Instructions & Navigation
 
 Each chapter will have multiple chapter folders.
 Each chapter folder starts with `c` followed by the chapter number.
@@ -23,28 +23,8 @@ m-clj.core=> (in-ns 'm-clj.c1.recur)
 #<Namespace m-clj.c1-recur>
 m-clj.c1-recur=> (factorial-ctco 10)
 ```
-## Hardware requirements
-
-CPU (Minimum: Intel Core 2 Duo or AMD Athlon, Recommended: Intel Core i5 or AMD FX)
-Memory (Minimum: 2GB, Recommended: 4GB)
-
 ## Related Clojure books:
 
-1. [Clojure for Machine Learning] (https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning)
-2. [Mastering Clojure Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-clojure-data-analysis)
-3. [Building Web Applications with Clojure [Video]] (https://www.packtpub.com/web-development/building-web-applications-clojure-video)
-
-
-## eBooks, discount offers, and more
-
-Did you know that Packt offers eBook versions of every book published, with PDF and ePub files available? You can upgrade to the eBook version at www.PacktPub.com and as a print book customer, you are entitled to a discount on the eBook copy. Get in touch with us at customercare@packtpub.com for more details.
-At [PacktPub] (www.PacktPub.com), you can also read a collection of free technical articles, sign up for a range of free newsletters and receive exclusive discounts and offers on Packt books and eBooks.
-
-Do you need instant solutions to your IT questions? PacktLib is Packt's online digital book library. Here, you can search, access, and read Packt's entire library of books.
-Why subscribe?
-•	Fully searchable across every book published by Packt
-•	Copy and paste, print, and bookmark content
-•	On demand and accessible via a web browser
-
-
-
+* [Clojure for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning?utm_source=github&utm_medium=related&utm_campaign=9781783284351)
+* [Mastering Clojure Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-clojure-data-analysis?utm_source=github&utm_medium=related&utm_campaign=9781783284139)
+* [Building Web Applications with Clojure](https://www.packtpub.com/web-development/building-web-applications-clojure-video?utm_source=github&utm_medium=related&utm_campaign=9781783286157)
