@@ -2,11 +2,11 @@
 
 This is the code repository for [Mastering Clojure](https://www.packtpub.com/application-development/mastering-clojure?utm_source=github&utm_medium=repository&utm_campaign=9781785889745), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-## Instructions & Navigation
+## Instructions and Navigation
 
-Each chapter will have multiple chapter folders.
-Each chapter folder starts with `c` followed by the chapter number.
-For example, `src/m_clj/c1/recur.clj` is a file from chapter 1.
+All of the code is organized into folders.
+Each folder starts with `c` followed by the chapter number.
+For example, `src/m_clj/c1/recur.clj` is a file from chapter 1, and `spec/m_clj/c10/speclj.clj` is one from chapter 10.
 
 Similarly, each chapter will have many namespaces.
 Each namespace starts with `m-clj.c` followed by the chapter
@@ -23,7 +23,7 @@ m-clj.core=> (in-ns 'm-clj.c1.recur)
 #<Namespace m-clj.c1-recur>
 m-clj.c1-recur=> (factorial-ctco 10)
 ```
-## Related Clojure books:
+## Related Clojure books
 
 * [Clojure for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning?utm_source=github&utm_medium=related&utm_campaign=9781783284351)
 * [Mastering Clojure Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-clojure-data-analysis?utm_source=github&utm_medium=related&utm_campaign=9781783284139)
