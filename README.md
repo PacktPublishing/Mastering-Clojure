@@ -21,8 +21,12 @@ m-clj.core=> (load-file "src/m_clj/c1/recur.clj")
 #'m-clj.c1-recur/factorial-ctco
 m-clj.core=> (in-ns 'm-clj.c1.recur)
 #<Namespace m-clj.c1-recur>
-m-clj.c1-recur=> (factorial-ctco 10)
+m-clj.c1-recur=> (fibo 10)
 ```
+
+All of the ClojureScript examples can be run through web pages in the `resources/html/` folder.
+Run `lein cljsbuild once` before you open these pages in a browser.
+
 ## Related Clojure books
 
 * [Clojure for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning?utm_source=github&utm_medium=related&utm_campaign=9781783284351)
