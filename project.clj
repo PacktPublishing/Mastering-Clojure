@@ -1,4 +1,4 @@
-(defproject m-clj "0.1.0-SNAPSHOT"
+(defproject m-clj "0.1"
   :description "Code for Mastering Clojure"
   :uberjar-name "m-clj.jar"
 
