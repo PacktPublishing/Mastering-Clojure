@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05024?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Mastering Clojure
 
 This is the code repository for [Mastering Clojure](https://www.packtpub.com/application-development/mastering-clojure?utm_source=github&utm_medium=repository&utm_campaign=9781785889745), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
